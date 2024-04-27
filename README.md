@@ -1,5 +1,5 @@
 # Table Server
-A simple [Gymnasium](https://gymnasium.farama.org/) enviroment that can be used to test search algorithms
+A simple [Gymnasium](https://gymnasium.farama.org/) environment that can be used to test search algorithms
 
 ![tableserver](https://github.com/angel-721/table-server/assets/75283919/00dc2995-8d08-4762-8789-ca51f3bd8bd1)
 
